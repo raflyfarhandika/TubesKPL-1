@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace E_Pen
 {
-    class LoginModel
+    class IsiBiodataModel
     {
-        // code here
     }
 }
