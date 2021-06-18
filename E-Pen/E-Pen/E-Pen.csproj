@@ -46,6 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IsiBiodata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IsiBiodata.Designer.cs">
+      <DependentUpon>IsiBiodata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IsiBiodataModel.cs" />
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
