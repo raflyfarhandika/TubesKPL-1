@@ -76,6 +76,9 @@
       <DependentUpon>SignUpForm.cs</DependentUpon>
     </Compile>
     <Compile Include="SignUpModel.cs" />
+    <EmbeddedResource Include="IsiBiodata.resx">
+      <DependentUpon>IsiBiodata.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
