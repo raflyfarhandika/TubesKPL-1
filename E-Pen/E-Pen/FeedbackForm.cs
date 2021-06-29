@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace E_Pen
 {
-    public partial class MainMenuForm : Form
+    public partial class FeedbackForm : Form
     {
-        public MainMenuForm()
+        public FeedbackForm()
         {
             InitializeComponent();
         }
