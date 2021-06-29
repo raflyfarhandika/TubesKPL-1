@@ -1,7 +1,7 @@
 ﻿
 namespace E_Pen
 {
-    partial class MainMenuForm
+    partial class FeedbackForm
     {
         /// <summary>
         /// Required designer variable.

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace E_Pen
 {
-    class MainMenuModel
+    class FeedbackModel
     {
 
     }
