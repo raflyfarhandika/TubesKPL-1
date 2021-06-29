@@ -8,6 +8,5 @@ namespace E_Pen
 {
     class FeedbackModel
     {
-
     }
 }
